@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ShoppingCart2080" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Capgemini\\Case\ Study\ Shopping\\Shopping_Cart_Web_Api\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="ShoppingCart_API.Data.ShoppingCartDbContext" description="" value="Data Source=tcp:shoppingapidbserver.database.windows.net,1433;Initial Catalog=ShoppingCart_API_db;User Id=ConnectSS@shoppingapidbserver;Password=Rvetal28*" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^D:\\Capgemini\\Case\ Study\ Shopping\\Shopping_Cart_Web_Api\\obj\\Release\\netcoreapp3\.1\\PubTmp\\EFSQLScripts\\ShoppingCart_API\.Data\.ShoppingCartDbContext\.sql$" />
+  </parameter>
+</parameters>

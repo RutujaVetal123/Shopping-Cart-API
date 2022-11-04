@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Capgemini\Case Study Shopping\Shopping_Cart_Web_Api\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="D:\Capgemini\Case Study Shopping\Shopping_Cart_Web_Api\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\ShoppingCart_API.Data.ShoppingCartDbContext.sql" />
+</sitemanifest>

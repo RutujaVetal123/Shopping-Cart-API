@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2euViGG/FkKQzsLdID6NqgAAAAACAAAAAAAQZgAAAAEAACAAAACF86ZNTcivvkWoyDk8JuK3QnlFggyPiLoJKrWbHkSjRQAAAAAOgAAAAAIAACAAAACGR7/zKbnwWuKv2wHYqlgULw9kCEOfo62U6BnF6uNIvYAAAACzQrXJDhvcj50Mq4tHZLF91ZoMar/Z9o4c6jspSchHnGocA0zLJgYAMZfj2xXDHEX5ULafIDxjhosnnxawJl8/TSTSDU1rClTMOeYK3og1EExDQOUkCHRlRrGwhw3D/e2KgxCcDHqcvmg2kyVbVIp0RWrt29Ti9G12aIE4d7fpU0AAAADpoA1nQh6jTbIAvezotvxGd8rc9ot8HMtkZsJw2qNBKnXLCzkNZT7PYutIbb91ha24hGvJqDFfboV7lGv/q2+C</EncryptedPassword>
+    <History>True|2022-10-18T07:29:22.9266561Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="ShoppingCart_API.Data.ShoppingCartDbContext">
+      <Value>Data Source=tcp:shoppingapidbserver.database.windows.net,1433%3bInitial Catalog=ShoppingCart_API_db%3bUser Id=ConnectSS%40shoppingapidbserver%3bPassword=Rvetal28%2a</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
